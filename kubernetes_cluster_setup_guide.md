@@ -3099,7 +3099,7 @@ Remember, cost optimization is an ongoing process. Regularly review your Kuberne
 
 # Copyright and Disclaimer
 
-© 2023 [Your Company Name]. All rights reserved.
+© 2023 Kiran Reddy. All rights reserved.
 
 This Kubernetes Cluster Setup Guide is provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
